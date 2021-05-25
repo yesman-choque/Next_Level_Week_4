@@ -1,14 +1,4 @@
 <h3 align="center">
-<img src="public/images/pc-happy.png">
-</h3>
-<br />
-
-<h3 align="center">
-<img src="public/images/logo-full.png" />
-      <hr />
-
- </h3>
-<h3 align="center">
   😄 Happy | Visite e leve felicidade a diversos lares e orfanatos 💛
 </h3>
 
